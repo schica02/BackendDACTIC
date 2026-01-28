@@ -10,7 +10,7 @@ async function bootstrap() {
 
   const newvariable = 10;
 
-  const config = new DocumentBuilder()
+ const config = new DocumentBuilder()
     .setTitle('API CRUD _ TALLER UNI')
     .setDescription('CRUD basico demo de despliegue')
     .setVersion('1.0')
